@@ -1,5 +1,5 @@
 # Define two numbers
-print("Version 33 test force psuh")
+print("Version 12")
 num1 = 10
 num2 = 20
 num3 = 30
