@@ -8,4 +8,4 @@ num3 = 30
 result = num1 - num2 - num3
 
 # Print the result
-print("The difference of", num1, "and", num2, "is", result)
+print("Version 13 for SSH push")
