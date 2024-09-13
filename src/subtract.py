@@ -1,5 +1,5 @@
 # Define two numbers
-print("Version 12")
+print("Version 13-git tutorial cloned")
 num1 = 10
 num2 = 20
 num3 = 30
